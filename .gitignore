@@ -1,0 +1,12 @@
+# Secret files
+config.properties
+oauth.properties
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Build
+build/
+target/
